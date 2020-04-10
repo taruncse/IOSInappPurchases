@@ -24,3 +24,10 @@ Following items are necessary
 * Validate the receipt
 * Uplock the content
 * Finish the trancsection
+
+## Necessary steps 
+* Login to your paid developer account from Apple (https://developer.apple.com/)
+* Create a new appID (Certificates, Identifiers & Profiles > Identifiers > App IDs)
+* Now login to (https://appstoreconnect.apple.com/)
+* Create an app (My App > + > new app)
+
