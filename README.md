@@ -44,6 +44,6 @@ Note : Product ID have to be unique (Eg: Bundle ID + Extra)
 * Check your email to verify the id
 
 # Configuration
-* Configure the bundle identifier
+* Configure the bundle identifier (Create a XCode project and ensure your have same build id which you have used in developer.apple.com )
 * Enable in app purchases in the capabilities tab
 
