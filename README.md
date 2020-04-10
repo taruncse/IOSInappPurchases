@@ -31,3 +31,19 @@ Following items are necessary
 * Now login to (https://appstoreconnect.apple.com/)
 * Create an app (My App > + > new app)
 
+## Now create your inapp purchases using following steps
+* Now login to (https://appstoreconnect.apple.com/)
+* Go to myapp and select your app
+* Click Feature > In-App Purchases > Click + sign > Any of the subscriptions type
+Note : Product ID have to be unique (Eg: Bundle ID + Extra)
+## Create Sandbox account to test the purchage
+* Now login to (https://appstoreconnect.apple.com/)
+* Go to *Users and Access* tab
+* Click *Testers* under *Sandbox* group
+* Create a sandbox account with necessary informations (the email address should be and paid/unpaid apple id)
+* Check your email to verify the id
+
+# Configuration
+* Configure the bundle identifier
+* Enable in app purchases in the capabilities tab
+
